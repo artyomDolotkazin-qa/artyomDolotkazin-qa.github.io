@@ -1,2 +1,2 @@
 # artyomDolotkazin-qa.github.io
-Сайт визитка
+Сайт-визитка
